@@ -244,7 +244,7 @@ These findings align with historical accounts of the Titanic disaster.
 <div align="center">
 
 **Hassan Ali**
-*Data Scientist | Machine Learning Enthusiast*
+*Data Scientist | ML Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hassanali)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/hassanali789)
