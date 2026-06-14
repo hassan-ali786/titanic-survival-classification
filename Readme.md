@@ -160,7 +160,7 @@ titanic-survival-classification/
 │   └── Titanic_Survival_Classification.ipynb   ← Main notebook (run this)
 │
 ├── 📂 data/
-│   └── titanic.csv                              ← Dataset (auto-loaded via seaborn)
+│   └── Titanic-Dataset.csv
 │
 ├── 📄 requirements.txt                          ← All dependencies
 ├── 📄 README.md                                 ← You are here
